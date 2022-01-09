@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    background-color: rgb(162, 169, 175);
+}
+header h1{
+    color: yellow;
+    text-transform: uppercase;   
+}
+header nav a {
+    background-color: gray;
+    color: black
+}
+.left{
+    display: none;
+}
+section{
+    background-color: rgb(162, 169, 175);
+}
+section.right h2{
+    color:gray;
+    text-transform: uppercase;
+}
+table{
+    margin: auto;
+}
+
+
+table th{
+    background-color: #cddb51;
+
+}
+
+.asd{
+    display: none;
+}
